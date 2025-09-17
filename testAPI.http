@@ -1,0 +1,4 @@
+### GET request to example server
+GET https://public.opendatasoft.com/api/records/1.0/search/?dataset=evenements-publics-openagenda
+
+###
